@@ -139,4 +139,13 @@ h1 {
       footer, p {
         font-size: 1.5rem;
       }
+
+      
+      
+      .lightbox-image {
+        max-width: 350px;
+        object-fit: cover;
+      }
+      
+      
   }
